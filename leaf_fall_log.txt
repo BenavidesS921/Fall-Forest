@@ -1,0 +1,22 @@
+The forest prepares for autumn...
+🍂  A leaf falls from branch level 0
+🍂  A leaf falls from branch level 0
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+    🍂  A leaf falls from branch level 2
+    🍂  A leaf falls from branch level 2
+    🍂  A leaf falls from branch level 2
+  🍂  A leaf falls from branch level 1
+  🍂  A leaf falls from branch level 1
+The forest sleeps for winter.
+
+The forest regenerates...
+🍀  A leaf grows from branch level 0
+🍀  A leaf grows from branch level 0
+  🍀  A leaf grows from branch level 1
+  🍀  A leaf grows from branch level 1
+    🍀  A leaf grows from branch level 2
+  🍀  A leaf grows from branch level 1
+  🍀  A leaf grows from branch level 1
+The forst wakes for spring.
